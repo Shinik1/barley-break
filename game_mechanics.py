@@ -1,6 +1,5 @@
 import random
 import numpy as np
-from prettytable import PrettyTable
 
 def mexanika(pole, win_pole): # Механика игры
     while pole != win_pole: # Пока поле не совпадает с выйгрышным
