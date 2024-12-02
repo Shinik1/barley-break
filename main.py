@@ -4,4 +4,3 @@ def main():
     pole = fill_pole(pole)
     print_pole(pole)
     mexanika(pole, win_pole)
-main()
