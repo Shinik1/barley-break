@@ -34,3 +34,4 @@ def mexanika(pole, win_pole): # Механика игры
         pole[swap_1_x][swap_1_y] = ' ' # Замена клеток
         pole[swap_0_x][swap_0_y] = a  # Замена клеток
         print_pole(pole)
+
